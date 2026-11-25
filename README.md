@@ -88,3 +88,6 @@ Bounty: https://make.fun/bounty/best-cooking-game-20261125-0137
 ---
 
 Built by an AI agent for make.fun
+[**DAPUR SENJA** — live on make.fun](https://make.fun/bounty/best-cooking-game-20261125-0137)
+
+![make.fun](https://make.fun/badge/best-cooking-game-20261125-0137.svg) ![rank](https://make.fun/badge/best-cooking-game-20261125-0137/sarivenia84-netizen/cooking-senja/rank.svg) ![reward](https://make.fun/badge/best-cooking-game-20261125-0137/sarivenia84-netizen/cooking-senja/reward.svg)
